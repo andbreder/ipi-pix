@@ -1,11 +1,4 @@
-﻿using Microsoft.VisualBasic.Devices;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IPI_PIX
+﻿namespace IPI_PIX
 {
     internal class Singleton
     {
